@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Ucafe2334
-- 👀 I’m interested in Game, Music, and Animations
-- 🌱 I’m currently learning Python, Java, and C#
-- 💞️ I’m looking to collaborate on Game Making
-- 📫 How to reach me just give me an email, or mention me at my twitter
+i am often trying something new, but related about storytelling, art, programming and games;
+adaptable with new environment and sociable; right now, i often playing game at my channel for research about a new game mechanics or stories;
